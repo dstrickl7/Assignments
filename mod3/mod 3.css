@@ -9,6 +9,7 @@
 #nav-list a:hover{
     color:#0033C9;
 }
+
 .navbar-brand{
     color: #C99714;
 }
@@ -35,7 +36,6 @@ div.row{
     margin-right:15px; 
 	margin-left:15px;
 	margin-bottom:15px;
-	
 }
 
 
@@ -46,6 +46,5 @@ body {
 
 h1 {
 	color: #02217D;
-
 }
 
