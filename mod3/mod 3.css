@@ -1,0 +1,53 @@
+#myNavbar {
+	text-align: center;
+}
+
+#nav-list a{
+    color:#C99200;
+}
+
+#nav-list a:hover{
+    color:#0033C9;
+}
+.navbar-brand{
+    color: #C99714;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+     border:1px solid #C99200;
+}
+
+nav.navbar {
+	background-color: #02217D;
+}
+
+div.tallSection{
+	background-color:#02217D;
+	width: 100%;
+	min-height: 1000px;
+	height: 1000px;
+	color: #C99714;
+	border:5px outset #C99714;
+}
+
+
+div.row{
+    margin-right:15px; 
+	margin-left:15px;
+	margin-bottom:15px;
+	
+}
+
+
+body { 
+	font-family: 'Roboto Condensed', sans-serif; 
+	background-color: #C99200;
+}
+
+h1 {
+<<<<<<< HEAD
+	color: #02217D;
+=======
+	color: #02217D;
+}
+>>>>>>> c5cd263f23f64d5c732cbfb34126554d5783eede
